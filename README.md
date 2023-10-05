@@ -71,12 +71,12 @@ CIRCUIT DIAGRAM:
 ## CIRCUIT DIAGRAM
 
 <p align='center'>
-<img src="https://github.com/Balaji-jj/Implementation-of-Automatic-Street-Light-Controller/assets/142155013/6b0bc807-e6fe-4bed-b96a-b498851fd7af" width='200px'>
+<img src="https://github.com/Balaji-jj/Implementation-of-Automatic-Street-Light-Controller/assets/142155013/6b0bc807-e6fe-4bed-b96a-b498851fd7af" width='300px'>
 </p>
 
 ## OUTPUT:
 <p align='center'>
-<img src="https://github.com/Balaji-jj/Implementation-of-Automatic-Street-Light-Controller/assets/142155013/1acc112c-91ac-43f8-ad3e-91d36e809093" width='200px'>
+<img src="https://github.com/Balaji-jj/Implementation-of-Automatic-Street-Light-Controller/assets/142155013/1acc112c-91ac-43f8-ad3e-91d36e809093" width='300px'>
 </p>
 
 ## RESULT:
